@@ -7,6 +7,7 @@ https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
 
 # Features
 The features includes:
+
 **Temperature (numeric)**: The temperature in degrees Celsius, ranging from extreme cold to extreme heat.
 
 **Humidity (numeric)**: The humidity percentage, including values above 100% to introduce outliers.
