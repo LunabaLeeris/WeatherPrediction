@@ -33,3 +33,4 @@ The features includes:
 # Results
 After implementation, the accuracy was calculated which turned out to be **75%**. This means that although computationally efficient, Gaussian Discriminant Analaysis, 
 is not that great of an approach for the given dataset. 
+This may be due to the fact that the features are not normally distibuted (small sample and has categorical variables)
